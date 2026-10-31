@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "description": "Đi Chùa Online · Chánh Điện Tịnh Tâm 2.5D & TikTok LIVE Interactive Overlay",
   "author": "Di Chua Online Team",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "type": "module",
   "main": "live/server.mjs",
   "scripts": {
