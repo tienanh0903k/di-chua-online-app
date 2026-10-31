@@ -1,0 +1,28 @@
+{
+  "name": "di-chua-online",
+  "version": "2.0.0",
+  "description": "Đi Chùa Online · Chánh Điện Tịnh Tâm 2.5D & TikTok LIVE Interactive Overlay",
+  "author": "Di Chua Online Team",
+  "license": "MIT",
+  "type": "module",
+  "main": "live/server.mjs",
+  "scripts": {
+    "start": "node live/server.mjs",
+    "live": "node live/server.mjs",
+    "dev": "node --watch live/server.mjs"
+  },
+  "keywords": [
+    "di-chua-online",
+    "chanh-dien-online",
+    "tiktok-live-overlay",
+    "phat-giao",
+    "tinh-tam",
+    "woodfish",
+    "go-mo-online"
+  ],
+  "dependencies": {
+    "msedge-tts": "2.1.1",
+    "tiktok-live-connector": "2.5.0",
+    "ws": "8.18.0"
+  }
+}
