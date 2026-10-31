@@ -1,0 +1,16 @@
+{
+  "name": "di-chua-online-live",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "TikTok LIVE & Web Overlay Server cho Đi Chùa Online",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node --watch server.mjs"
+  },
+  "dependencies": {
+    "msedge-tts": "2.1.1",
+    "tiktok-live-connector": "2.5.0",
+    "ws": "8.18.0"
+  }
+}
